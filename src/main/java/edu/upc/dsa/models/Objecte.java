@@ -1,4 +1,4 @@
-
+package edu.upc.dsa.models;
 import java.util.LinkedList;
 import java.util.List;
 
